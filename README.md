@@ -9,6 +9,6 @@ ________________________________________________________________________________
 
 # Installation
 
-Install node_modules in the trips, frontend & backend folders
+Install node_modules in the trips, frontend & backend folders.
 npm start and your good to go!
 
